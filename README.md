@@ -19,6 +19,7 @@ The project uses three main datasets:
   - Key column: Profile.Name
 
 **Features**
+
 The Python code performs the following tasks:
 - Data Cleaning & Name Formatting
   - Standardizes astronaut names from First MI. Last → Last, First MI.
@@ -34,3 +35,14 @@ The Python code performs the following tasks:
   - Identifies which colleges correspond to the max/min totals
 - Visualization
   - Generates a box plot summarizing the distribution of income_group*attendance across all colleges
+
+**Code Structure**
+
+main.py (or your script filename)
+- Contains all code for cleaning, aggregation, matching, and analysis
+
+CollegeAdmissions_Data.csv
+
+astronauts colleges.csv
+
+Social_Science.csv
