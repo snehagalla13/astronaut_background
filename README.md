@@ -5,7 +5,7 @@ This project analyzes astronaut education data and college admissions data to ex
 **Data**
 
 The project uses three main datasets:
-- CollegeAdmissions_Data.csv=
+- CollegeAdmissions_Data.csv
   - Contains student-level college admissions data.
   - Key columns:
     - name: College name
