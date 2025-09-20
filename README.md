@@ -38,7 +38,7 @@ The Python code performs the following tasks:
 
 **Code Structure**
 
-main.py (or your script filename)
+astronauts_background.ipynb
 - Contains all code for cleaning, aggregation, matching, and analysis
 
 CollegeAdmissions_Data.csv
